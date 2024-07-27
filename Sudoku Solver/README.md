@@ -13,6 +13,10 @@ The Sudoku Solver project is designed to help users solve Sudoku puzzles by ente
 - Clear and user-friendly design
 - Error handling for invalid puzzles
 
+## Preview
+
+https://github.com/user-attachments/assets/e6628289-241d-446b-afb0-0897a3c90907
+
 ## Technologies Used
 
 - **HTML**: For structuring the web page
@@ -21,7 +25,10 @@ The Sudoku Solver project is designed to help users solve Sudoku puzzles by ente
 
 ## Installation
 
-To run the Sudoku Solver project locally, follow these steps:
+To run the Sudoku Solver 
+
+
+project locally, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
