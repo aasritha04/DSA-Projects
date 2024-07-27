@@ -25,7 +25,7 @@ To run the Sudoku Solver project locally, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/aasritha04/dsa-projects.git
+    git clone https://github.com/aasritha04/DSA-Projects.git
     cd dsa-projects
     cd sudoku-solver
     ```
