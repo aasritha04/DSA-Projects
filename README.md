@@ -1,4 +1,4 @@
-# Python-Projects
+# DSA-Projects
 
 This repository contains a collection of DSA projects.The details of each project is mentioned in the respective project files.
 
