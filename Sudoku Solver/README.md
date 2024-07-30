@@ -33,7 +33,7 @@ project locally, follow these steps:
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/aasritha04/DSA-Projects.git
-    cd dsa-projects/sudoku-solver
+    cd dsa-projects/Sudoku Solver
     ```
 
 2. **Open the Project**:
